@@ -156,11 +156,11 @@ background-color: #fff;
     font-family: sans-serif;
     text-align: center;
     color: #ff7200;
-    font-size: 22px;
+    font-size: 18px;
     background-color: #fff;
     border-radius: 10px;
     margin: 2px;
-    padding: 8px;
+    padding: 6px;
 }
 .form input{
     width: 240px;
